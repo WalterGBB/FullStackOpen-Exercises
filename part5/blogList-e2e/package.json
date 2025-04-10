@@ -1,0 +1,17 @@
+{
+  "name": "blogs-e2e",
+  "version": "1.0.0",
+  "description": "e22 tests with playwright",
+  "license": "ISC",
+  "author": "Walter Gianfranco Becerra Barrantes",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.0"
+  }
+}

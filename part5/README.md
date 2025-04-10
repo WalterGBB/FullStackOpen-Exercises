@@ -1,0 +1,1 @@
+In this section, I learned about testing React components on the front end. I ran unit and integration tests with Vitest and end-to-end tests with Playwright. I included the backend folder because I had to make some changes to the Blog controller's responses to implement improvements in the frontend that I identified by testing the components.
